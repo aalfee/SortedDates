@@ -59,10 +59,10 @@ To run the program, execute the main method in the Project4.java class. This wil
 
 # Screenshots
 
-![Alt text](/Screenshot/Screenshot1.jpeg?raw=true "Date212GUI")
-![Alt text](/Screenshot/Screenshot2.jpeg?raw=true "Screenshot2")
-![Alt text](/Screenshot/Screenshot3.jpeg?raw=true "Screenshot3")
-![Alt text](/Screenshot/Screenshot4.jpeg?raw=true "Screenshot4")
+![Alt text](/Screenshots/Screenshot1.png?raw=true "Date212GUI")
+![Alt text](/Screenshots/Screenshot2.png?raw=true "Screenshot2")
+![Alt text](/Screenshots/Screenshot3.png?raw=true "Screenshot3")
+![Alt text](/Screenshots/Screenshot4.png?raw=true "Screenshot4")
 
 # Notes
 Ensure that input files adhere to the expected format for successful date parsing.
