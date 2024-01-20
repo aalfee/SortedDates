@@ -63,6 +63,7 @@ To run the program, execute the main method in the Project4.java class. This wil
 ![Alt text](/Screenshots/Screenshot2.png?raw=true "Screenshot2")
 ![Alt text](/Screenshots/Screenshot3.png?raw=true "Screenshot3")
 ![Alt text](/Screenshots/Screenshot4.png?raw=true "Screenshot4")
+![Alt text](/Screenshots/Screenshot5.jpeg?raw=true "Screenshot5")
 
 # Notes
 Ensure that input files adhere to the expected format for successful date parsing.
